@@ -1,0 +1,42 @@
+#tcb-testimonial-carousel {
+  margin-top: 30px;
+}
+#tcb-testimonial-carousel a {
+  color: #b20000;
+}
+#tcb-testimonial-carousel .text-brand {
+  color: #b20000;
+}
+#tcb-testimonial-carousel .carousel-indicators .active {
+  background: #b20000;
+}
+#tcb-testimonial-carousel .no-margin {
+  margin: 0;
+}
+#tcb-testimonial-carousel .carousel-indicators li {
+  border: 1px solid #ccc;
+}
+#tcb-testimonial-carousel .carousel-control {
+  color: #b20000;
+  width: 5%;
+}
+#tcb-testimonial-carousel .carousel-control:hover,
+#tcb-testimonial-carousel .carousel-control:focus {
+  color: #b20000;
+}
+#tcb-testimonial-carousel .carousel-control.left,
+#tcb-testimonial-carousel .carousel-control.right {
+  background-image: none;
+}
+#tcb-testimonial-carousel .item {
+  padding: 15px 40px;
+  background: #f8f8f8;
+}
+#tcb-testimonial-carousel .media-object {
+  margin: auto;
+}
+@media screen and (max-width: 768px) {
+  #tcb-testimonial-carousel .media-object {
+    margin-bottom: 15px;
+  }
+}
